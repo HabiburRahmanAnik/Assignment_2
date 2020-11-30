@@ -1,0 +1,7 @@
+F:\8th semester\C#\code\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+F:\8th semester\C#\code\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+F:\8th semester\C#\code\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+F:\8th semester\C#\code\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csprojAssemblyReference.cache
+F:\8th semester\C#\code\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+F:\8th semester\C#\code\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+F:\8th semester\C#\code\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
